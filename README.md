@@ -29,7 +29,7 @@ We built TaoApex to solve a common problem: **AI tools are scattered across doze
 
 ## Core Products
 
-### Imagine - Free AI Headshot Generator
+### [Imagine](https://taoapex.com/en/products/imagine/) - Free AI Headshot Generator
 
 Transform your selfies into stunning **professional AI headshots** and **AI portraits** in seconds. Perfect for:
 
@@ -48,7 +48,9 @@ Transform your selfies into stunning **professional AI headshots** and **AI port
 
 **Keywords:** AI headshot generator, AI portrait generator, professional headshot AI, LinkedIn photo generator, free AI headshots, AI profile picture maker, virtual photoshoot, AI photography
 
-### Talk - AI Companion with Infinite Memory
+[**Try Imagine Free →**](https://taoapex.com/en/products/imagine/)
+
+### [Talk](https://taoapex.com/en/products/talk/) - AI Companion with Infinite Memory
 
 Finally, an **AI chat companion** that actually **remembers you**. Unlike ChatGPT or other chatbots that forget everything after each session, Talk builds a **lifelong relationship** by storing your conversations, preferences, and emotional context.
 
@@ -67,7 +69,9 @@ Finally, an **AI chat companion** that actually **remembers you**. Unlike ChatGP
 
 **Keywords:** AI companion, AI friend, AI chat with memory, emotional AI, AI for loneliness, virtual companion, AI conversation partner, AI mental health support
 
-### PromptHub - AI Prompt Manager & Organizer
+[**Try Talk Free →**](https://taoapex.com/en/products/talk/)
+
+### [PromptHub](https://taoapex.com/en/products/prompt/) - AI Prompt Manager & Organizer
 
 Stop losing your best prompts! **PromptHub** is the **#1 free prompt management platform** for AI power users, developers, and creative professionals.
 
@@ -87,6 +91,8 @@ Stop losing your best prompts! **PromptHub** is the **#1 free prompt management 
 - Creative writers and artists
 
 **Keywords:** AI prompt manager, prompt organizer, ChatGPT prompts, prompt library, prompt templates, AI workflow tools, prompt engineering tools, best prompt manager
+
+[**Try PromptHub Free →**](https://taoapex.com/en/products/prompt/)
 
 ---
 
@@ -138,9 +144,9 @@ Detailed documentation is available in the [docs/](docs/) directory:
 
 <div align="center">
 
-| Imagine - AI Headshots | Talk - AI Companion | PromptHub - Prompt Manager |
+| [Imagine](https://taoapex.com/en/products/imagine/) - AI Headshots | [Talk](https://taoapex.com/en/products/talk/) - AI Companion | [PromptHub](https://taoapex.com/en/products/prompt/) - Prompt Manager |
 |:---:|:---:|:---:|
-| ![Imagine Screenshot](assets/screenshots/imagine-preview.png) | ![Talk Screenshot](assets/screenshots/talk-preview.png) | ![PromptHub Screenshot](assets/screenshots/prompthub-preview.png) |
+| [![Imagine Screenshot](assets/screenshots/imagine-preview.png)](https://taoapex.com/en/products/imagine/) | [![Talk Screenshot](assets/screenshots/talk-preview.png)](https://taoapex.com/en/products/talk/) | [![PromptHub Screenshot](assets/screenshots/prompthub-preview.png)](https://taoapex.com/en/products/prompt/) |
 
 </div>
 
@@ -179,7 +185,7 @@ Copyright 2024-2025 TaoApex. All rights reserved.
 
 **[Start Using TaoApex Free](https://taoapex.com/)**
 
-*AI Headshots • AI Chat Companion • Prompt Manager*
+*[AI Headshots](https://taoapex.com/en/products/imagine/) • [AI Chat Companion](https://taoapex.com/en/products/talk/) • [Prompt Manager](https://taoapex.com/en/products/prompt/)*
 
 Made with love for the AI community
 

@@ -2,7 +2,7 @@
 
 ## Reporting Security Vulnerabilities
 
-We take security seriously at TaoApex. If you discover a security vulnerability, please report it responsibly.
+We take security seriously at [TaoApex](https://taoapex.com/). If you discover a security vulnerability, please report it responsibly.
 
 ### How to Report
 
@@ -26,8 +26,11 @@ Include:
 ### Scope
 
 This security policy applies to:
-- https://taoapex.com/ and all subdomains
-- TaoApex products (Imagine, Talk, PromptHub)
+- [https://taoapex.com/](https://taoapex.com/) and all subdomains
+- TaoApex products:
+  - [Imagine](https://taoapex.com/en/products/imagine/) - AI Headshot Generator
+  - [Talk](https://taoapex.com/en/products/talk/) - AI Companion
+  - [PromptHub](https://taoapex.com/en/products/prompt/) - Prompt Manager
 - This GitHub repository
 
 ### Out of Scope
@@ -52,4 +55,6 @@ We currently do not have a formal bug bounty program, but we appreciate responsi
 
 ---
 
-Thank you for helping keep TaoApex secure!
+Thank you for helping keep [TaoApex](https://taoapex.com/) secure!
+
+**Products:** [Imagine](https://taoapex.com/en/products/imagine/) | [Talk](https://taoapex.com/en/products/talk/) | [PromptHub](https://taoapex.com/en/products/prompt/)

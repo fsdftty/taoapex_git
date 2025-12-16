@@ -20,13 +20,16 @@ TaoApex offers three powerful AI tools:
 
 | Product | Best For | Free Tier |
 |---------|----------|-----------|
-| **Imagine** | AI headshots & portraits | 3 free images |
-| **Talk** | AI companion with memory | Unlimited text chat |
-| **PromptHub** | Prompt management | 100 prompts |
+| [**Imagine**](https://taoapex.com/en/products/imagine/) | AI headshots & portraits | 3 free images |
+| [**Talk**](https://taoapex.com/en/products/talk/) | AI companion with memory | Unlimited text chat |
+| [**PromptHub**](https://taoapex.com/en/products/prompt/) | Prompt management | 100 prompts |
 
 ### Step 3: Start Creating
 
-Each product has its own dedicated interface accessible from the navigation menu.
+Each product has its own dedicated interface accessible from the navigation menu:
+- [**Imagine**](https://taoapex.com/en/products/imagine/) - Generate professional AI headshots
+- [**Talk**](https://taoapex.com/en/products/talk/) - Chat with your AI companion
+- [**PromptHub**](https://taoapex.com/en/products/prompt/) - Organize and manage your prompts
 
 ## System Requirements
 
@@ -58,4 +61,4 @@ TaoApex is a web-based application that works on:
 
 ---
 
-[Back to Home](../README.md) | [Next: Imagine Guide](./imagine.md)
+[Back to Home](../README.md) | [Next: Imagine Guide](./imagine.md) | [Try TaoApex](https://taoapex.com/)

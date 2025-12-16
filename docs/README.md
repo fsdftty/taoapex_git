@@ -6,29 +6,29 @@ Welcome to the TaoApex documentation. Here you'll find guides, tutorials, and re
 
 | Document | Description |
 |----------|-------------|
-| [Getting Started](./getting-started.md) | New to TaoApex? Start here! |
-| [Imagine Guide](./imagine.md) | AI Headshot Generator documentation |
-| [Talk Guide](./talk.md) | AI Companion with infinite memory |
-| [PromptHub Guide](./prompthub.md) | Prompt management system |
+| [Getting Started](./getting-started.md) | New to [TaoApex](https://taoapex.com/)? Start here! |
+| [Imagine Guide](./imagine.md) | [AI Headshot Generator](https://taoapex.com/en/products/imagine/) documentation |
+| [Talk Guide](./talk.md) | [AI Companion](https://taoapex.com/en/products/talk/) with infinite memory |
+| [PromptHub Guide](./prompthub.md) | [Prompt management](https://taoapex.com/en/products/prompt/) system |
 | [API Reference](./api.md) | Developer API documentation |
 | [FAQ](./faq.md) | Frequently Asked Questions |
 
 ## Product Overview
 
-### Imagine - AI Headshot Generator
-Transform photos into professional AI headshots. Perfect for LinkedIn, corporate use, and creative projects.
+### [Imagine](https://taoapex.com/en/products/imagine/) - AI Headshot Generator
+Transform photos into professional [AI headshots](https://taoapex.com/en/products/imagine/). Perfect for LinkedIn, corporate use, and creative projects.
 - [Full Documentation](./imagine.md)
-- [Try Imagine](https://taoapex.com/en/products/imagine/)
+- [**Try Imagine Free →**](https://taoapex.com/en/products/imagine/)
 
-### Talk - AI Companion
-An AI friend that remembers you. Build a lifelong relationship with an AI that never forgets.
+### [Talk](https://taoapex.com/en/products/talk/) - AI Companion
+An [AI friend](https://taoapex.com/en/products/talk/) that remembers you. Build a lifelong relationship with an AI that never forgets.
 - [Full Documentation](./talk.md)
-- [Try Talk](https://taoapex.com/en/products/talk/)
+- [**Try Talk Free →**](https://taoapex.com/en/products/talk/)
 
-### PromptHub - Prompt Manager
-Organize, version, and share your AI prompts. The ultimate tool for prompt engineers.
+### [PromptHub](https://taoapex.com/en/products/prompt/) - Prompt Manager
+Organize, version, and share your AI prompts with [PromptHub](https://taoapex.com/en/products/prompt/). The ultimate tool for prompt engineers.
 - [Full Documentation](./prompthub.md)
-- [Try PromptHub](https://taoapex.com/en/products/prompt/)
+- [**Try PromptHub Free →**](https://taoapex.com/en/products/prompt/)
 
 ## Support
 

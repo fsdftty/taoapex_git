@@ -1,6 +1,6 @@
 # TaoApex API Documentation
 
-The TaoApex API allows developers to integrate PromptHub functionality into their applications.
+The [TaoApex](https://taoapex.com/) API allows developers to integrate [PromptHub](https://taoapex.com/en/products/prompt/) functionality into their applications.
 
 > **Note:** API access is available on PromptHub Pro and above plans.
 
@@ -162,4 +162,4 @@ For API support, please contact:
 
 ---
 
-[Back to Documentation](./README.md) | [PromptHub Guide](./prompthub.md)
+[Back to Documentation](./README.md) | [PromptHub Guide](./prompthub.md) | [Try PromptHub](https://taoapex.com/en/products/prompt/) | [TaoApex Home](https://taoapex.com/)

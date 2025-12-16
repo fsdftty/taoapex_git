@@ -1,6 +1,6 @@
 # Contributing to TaoApex
 
-Thank you for your interest in contributing to TaoApex!
+Thank you for your interest in contributing to [TaoApex](https://taoapex.com/)!
 
 ## How to Contribute
 
@@ -24,8 +24,11 @@ Have an idea for a new feature? Share it in [GitHub Discussions](https://github.
 
 ### Spread the Word
 - Star this repository
-- Share TaoApex with friends and colleagues
-- Write about your experience using TaoApex
+- Share [TaoApex](https://taoapex.com/) with friends and colleagues
+- Write about your experience using our products:
+  - [Imagine](https://taoapex.com/en/products/imagine/) - AI Headshot Generator
+  - [Talk](https://taoapex.com/en/products/talk/) - AI Companion
+  - [PromptHub](https://taoapex.com/en/products/prompt/) - Prompt Manager
 
 ## Documentation Contributions
 
@@ -52,4 +55,6 @@ Please be respectful and constructive in all interactions. We're building a posi
 
 ---
 
-Thank you for helping make TaoApex better!
+Thank you for helping make [TaoApex](https://taoapex.com/) better!
+
+**Try our products:** [Imagine](https://taoapex.com/en/products/imagine/) | [Talk](https://taoapex.com/en/products/talk/) | [PromptHub](https://taoapex.com/en/products/prompt/)
