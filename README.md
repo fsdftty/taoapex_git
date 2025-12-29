@@ -7,7 +7,7 @@
 **This is the official documentation, issue tracker, and community hub for TaoApex.**
 **The core application is proprietary software. Source code is not included in this repository.**
 
-[![Website](https://img.shields.io/badge/Website-taoapex.com-blue?style=for-the-badge&logo=google-chrome)](https://taoapex.com/)
+[![Website](https://img.shields.io/badge/Website-taoapex.com-blue?style=for-the-badge&logo=google-chrome)](https://taoapex.com/en)
 [![Twitter](https://img.shields.io/badge/Twitter-@taoapex-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/xifeilong)
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](LICENSE)
 
