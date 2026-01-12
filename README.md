@@ -13,7 +13,7 @@
 
 ---
 
-[**Get Started Free**](https://taoapex.com/en) | [**Documentation**](docs/) | [**Report Issues**](https://github.com/taoapex/taoapex/issues) | [**Feature Requests**](https://github.com/taoapex/taoapex/discussions)
+[**Get Started Free**](https://taoapex.com/en/) | [**Documentation**](docs/) | [**Report Issues**](https://github.com/taoapex/taoapex/issues) | [**Feature Requests**](https://github.com/taoapex/taoapex/discussions)
 
 </div>
 
@@ -113,7 +113,7 @@ Stop losing your best prompts! **PromptHub** is the **#1 free prompt management 
 
 ### 1. Visit TaoApex
 
-Go to **[https://taoapex.com/en](https://taoapex.com/en)** and create your free account.
+Go to **[https://taoapex.com/en/](https://taoapex.com/en/)** and create your free account.
 
 ### 2. Choose Your Tool
 
@@ -162,7 +162,7 @@ English, 简体中文, 繁體中文, 日本語, 한국어, Español, Français, 
 
 ## Community & Support
 
-- **Website:** [https://taoapex.com/en](https://taoapex.com/en)
+- **Website:** [https://taoapex.com/en/](https://taoapex.com/en/)
 - **Documentation:** [docs/](docs/)
 - **Issues & Bug Reports:** [GitHub Issues](https://github.com/taoapex/taoapex/issues)
 - **Feature Requests:** [GitHub Discussions](https://github.com/taoapex/taoapex/discussions)
@@ -183,7 +183,7 @@ Copyright 2024-2025 TaoApex. All rights reserved.
 
 <div align="center">
 
-**[Start Using TaoApex Free](https://taoapex.com/en)**
+**[Start Using TaoApex Free](https://taoapex.com/en/)**
 
 *[AI Headshots](https://taoapex.com/en/products/imagine/) • [AI Chat Companion](https://taoapex.com/en/products/talk/) • [Prompt Manager](https://taoapex.com/en/products/prompt/)*
 
